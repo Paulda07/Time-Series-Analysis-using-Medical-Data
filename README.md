@@ -9,7 +9,7 @@ The **Healthcare Appointments Analytics** project is a data analysis project foc
 - [Dataset](#dataset)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Analysis](#SQL analysis)
+- [Analysis](#SQLAnalysis)
 - [Contributing](#contributing)
 
 ## Project Overview
